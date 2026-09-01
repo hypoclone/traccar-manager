@@ -16,6 +16,8 @@ Connect the app to your Traccar Server, log in with your credentials, and instan
 
 Don't have a Traccar server yet? [Try the live demo](https://www.traccar.org/demo-server/) or see the [installation guides](https://www.traccar.org/install-vps/) to set up your own for free.
 
+<img src=".github/screenshot.png" alt="Traccar Manager app" width="300">
+
 ## Build
 
 Standard Flutter project:
